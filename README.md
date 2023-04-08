@@ -2,7 +2,7 @@
 
 ![Bird2Doge](Doges/kusodasa.png)
 
-Replace twitter bird with Doge
+WOW! Replace twitter bird with Doge
 
 ## How to install
 ### Chrome
