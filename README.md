@@ -1,8 +1,9 @@
 # Bird2Doge
 
-Replace twitter bird with Doge
 
-![Doge](Doges/doge96.png)
+![Bird2Doge](Doges/kusodasa.png)
+
+Replace twitter bird with Doge
 
 ## constraints
 
