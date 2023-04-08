@@ -1,0 +1,23 @@
+{
+    "name": "Bird2Doge",
+    "description": "Replace twitter bird with Doge",
+    "version": "0.1",
+    "manifest_version": 3,
+    "author": "mimoex",
+    "action": {
+        "default_icon": {
+          "16": "Doges/doge16.png",
+          "32": "Doges/doge32.png",
+          "48": "Doges/doge48.png"
+        }
+      },
+      "icons": {
+        "128": "Doges/doge128.png"
+      },
+      "content_scripts": [
+        {
+          "matches": ["https://*.twitter.com/*"],
+          "js": ["background.js"]
+        }
+      ]
+}
